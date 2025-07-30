@@ -32,3 +32,6 @@ Airbag-related recalls alone account for roughly 25% of the entries, followed by
 
 Together, these datasets offer a comprehensive view of the 2024 vehicle market and related safety issues. This provides a strong foundation for analytical comparisons between vehicle sale trends and recall patterns, which will later be visualized using SQL queries and Tableau dashboards.
 
+Source Links
+>https://www.nhtsa.gov/nhtsa-datasets-and-apis#recalls
+>https://www.kaggle.com/datasets/kanchana1990/vehicle-dataset-2024?resource=download
