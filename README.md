@@ -37,4 +37,4 @@ Source Links
 >https://www.kaggle.com/datasets/kanchana1990/vehicle-dataset-2024?resource=download
 
 VS Code Extensions
-To view and interact with SQLite databases, install this extension: alexcvzz.vscode-sqlite
+To view and interact with SQLite databases, install this extension: SQLite Viewer
