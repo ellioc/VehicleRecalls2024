@@ -35,3 +35,6 @@ Together, these datasets offer a comprehensive view of the 2024 vehicle market a
 Source Links
 >https://www.nhtsa.gov/nhtsa-datasets-and-apis#recalls
 >https://www.kaggle.com/datasets/kanchana1990/vehicle-dataset-2024?resource=download
+
+VS Code Extensions
+To view and interact with SQLite databases, install this extension: alexcvzz.vscode-sqlite
